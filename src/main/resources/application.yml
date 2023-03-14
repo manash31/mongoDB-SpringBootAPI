@@ -3,4 +3,5 @@ Spring:
     mongodb:
       host: localhost
       port: 27017
-      database: EMPDB
+      database: AuditTrailDB
+
